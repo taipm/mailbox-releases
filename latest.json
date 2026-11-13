@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.10",
-  "tag": "v0.0.1-alpha.10",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.10/MailBox-0.0.1-alpha.10.dmg",
-  "sha256": "f92eb22b8c42f4447c475f2049747130474d27ee5dd2dab542528226f7d355b6",
-  "notes": "Giao diện là tầng độc lập, 3 kiểu chuyển nhanh trên thanh đầu (⌘1 / ⌘2 / ⌘3, app nhớ lựa chọn):"
+  "version": "0.0.1-alpha.11",
+  "tag": "v0.0.1-alpha.11",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.11/MailBox-0.0.1-alpha.11.dmg",
+  "sha256": "419f6ea4cd8d8a4f99a4d53d5ba95ac3f4810123e24a04ffa44bb8ec3bd8470f",
+  "notes": "\"Thư không còn trong kho\" khi bấm một thư vừa được Exchange chuyển thư mục. Mail.app cấp ROWID mới cho thư đổi thư mục; MailBox giờ nhận ra cặp mất/xuất hiện cùng Message-ID trong một lượt đồng bộ, ma"
 }
