@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.11",
-  "tag": "v0.0.1-alpha.11",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.11/MailBox-0.0.1-alpha.11.dmg",
-  "sha256": "419f6ea4cd8d8a4f99a4d53d5ba95ac3f4810123e24a04ffa44bb8ec3bd8470f",
-  "notes": "\"Thư không còn trong kho\" khi bấm một thư vừa được Exchange chuyển thư mục. Mail.app cấp ROWID mới cho thư đổi thư mục; MailBox giờ nhận ra cặp mất/xuất hiện cùng Message-ID trong một lượt đồng bộ, ma"
+  "version": "0.0.1-alpha.12",
+  "tag": "v0.0.1-alpha.12",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.12/MailBox-0.0.1-alpha.12.dmg",
+  "sha256": "1dbc0a1f6478d1bc7d57ecfe7be5e0c697328e1eae8f1a829ea42430e633aeac",
+  "notes": "Cài đặt AI (nút ⚙ trên thanh trên, ⌘,): chọn model Ollama cho *dán nhãn* (họ tev1) và *tóm tắt* từ danh sách model đã cài trên máy; bật/tắt riêng từng việc và việc tự tóm tắt thread dài. Model được th"
 }
