@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.9",
-  "tag": "v0.0.1-alpha.9",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.9/MailBox-0.0.1-alpha.9.dmg",
-  "sha256": "b90253a46741471637d97ad6f1624f4f65804c0b83f898acebb66e6d24935cf5",
-  "notes": "Luật lọc: xếp thư vào *Cần xử lý / Để biết / Tự động / Nhiễu* theo người gửi hoặc tiêu đề (không phân biệt hoa thường, gõ không dấu cũng khớp) hoặc theo mô tả bằng lời do tev1 chấm (khớp khi xác suất "
+  "version": "0.0.1-alpha.10",
+  "tag": "v0.0.1-alpha.10",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.10/MailBox-0.0.1-alpha.10.dmg",
+  "sha256": "f92eb22b8c42f4447c475f2049747130474d27ee5dd2dab542528226f7d355b6",
+  "notes": "Giao diện là tầng độc lập, 3 kiểu chuyển nhanh trên thanh đầu (⌘1 / ⌘2 / ⌘3, app nhớ lựa chọn):"
 }
