@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.12",
-  "tag": "v0.0.1-alpha.12",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.12/MailBox-0.0.1-alpha.12.dmg",
-  "sha256": "1dbc0a1f6478d1bc7d57ecfe7be5e0c697328e1eae8f1a829ea42430e633aeac",
-  "notes": "Cài đặt AI (nút ⚙ trên thanh trên, ⌘,): chọn model Ollama cho *dán nhãn* (họ tev1) và *tóm tắt* từ danh sách model đã cài trên máy; bật/tắt riêng từng việc và việc tự tóm tắt thread dài. Model được th"
+  "version": "0.0.1-alpha.13",
+  "tag": "v0.0.1-alpha.13",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.13/MailBox-0.0.1-alpha.13.dmg",
+  "sha256": "89388d70a565557cd291e3da75d539ea9ee7b73af5d01d0f540cb1557ed22761",
+  "notes": "Việc (task) thành đối tượng riêng trong kho: tiêu đề, hạn (ngày cụ thể), mở/xong, nguồn AI hoặc tự thêm, nối với thư/thread nguồn. Việc còn nguyên khi thư đổi thư mục hoặc bị xoá khỏi Mail (giữ tiêu đ"
 }
