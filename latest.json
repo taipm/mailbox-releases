@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.17",
-  "tag": "v0.0.1-alpha.17",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.17/MailBox-0.0.1-alpha.17.dmg",
-  "sha256": "6f29d063eb67981ced7422e00b54e440d2b78a3e6e5ad8519fcc604a7476d202",
-  "notes": "Giao dịch thẻ (theo quy tắc, không AI): đọc thư thông báo giao dịch thẻ của ngân hàng — giao dịch thành công, không thành công (kèm lý do, vd \"Tạm khoá giao dịch\", \"Thẻ hết hạn\") và thư \"thẻ sắp hết h"
+  "version": "0.0.1-alpha.18",
+  "tag": "v0.0.1-alpha.18",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.18/MailBox-0.0.1-alpha.18.dmg",
+  "sha256": "7fca6be38d126db657414a168505642eccbf8aaec652a4349881fa371d9890e7",
+  "notes": "Lọc và sắp xếp danh sách thư (Bàn làm việc): thanh chip lọc nhanh bật/tắt dưới header danh sách — Có đính kèm · Gắn cờ · Gấp · Cần làm · Có việc · To tôi · Cc tôi; menu \"+ Thêm bộ lọc\" (thời gian Hôm "
 }
