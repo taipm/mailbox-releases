@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.16",
-  "tag": "v0.0.1-alpha.16",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.16/MailBox-0.0.1-alpha.16.dmg",
-  "sha256": "d676580581ce55de81367b8a14bcc4ec29fd07d3d27d8a157534984c1926ab94",
-  "notes": "Nhóm thư (theo quy tắc, không dùng AI; song song với luồng tev1, một thư có thể thuộc nhiều nhóm): Đảng, Công đoàn, Phòng tôi, Nghỉ phép. Mỗi nhóm có danh sách địa chỉ (khớp người gửi, To hoặc Cc, khô"
+  "version": "0.0.1-alpha.17",
+  "tag": "v0.0.1-alpha.17",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.17/MailBox-0.0.1-alpha.17.dmg",
+  "sha256": "6f29d063eb67981ced7422e00b54e440d2b78a3e6e5ad8519fcc604a7476d202",
+  "notes": "Giao dịch thẻ (theo quy tắc, không AI): đọc thư thông báo giao dịch thẻ của ngân hàng — giao dịch thành công, không thành công (kèm lý do, vd \"Tạm khoá giao dịch\", \"Thẻ hết hạn\") và thư \"thẻ sắp hết h"
 }
