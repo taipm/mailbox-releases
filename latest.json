@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.14",
-  "tag": "v0.0.1-alpha.14",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.14/MailBox-0.0.1-alpha.14.dmg",
-  "sha256": "1eda65b23705a81f0dfaefc8566dec859303555ce0cf225c7f76084a9b88ccbc",
-  "notes": "Luật tự thao tác thư (như Outlook): luật khớp chữ có thêm \"Rồi thì\": *Chỉ xếp vào luồng* / *Đánh dấu đã đọc* / *Chuyển vào thư mục…* / *Xoá (chuyển vào Deleted Items)*. Dịch vụ nền mỗi 30 giây làm với"
+  "version": "0.0.1-alpha.15",
+  "tag": "v0.0.1-alpha.15",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.15/MailBox-0.0.1-alpha.15.dmg",
+  "sha256": "8355bef822a560a86f492b62e139a3b016e68dcf1a1fc4f2e634a87342b701e5",
+  "notes": "Mặc định chỉ xem thư chưa đọc: header danh sách ở Bàn làm việc và header mỗi cột ở Phân luồng có tab \"Chưa đọc N | Tất cả\" (mặc định Chưa đọc). Bàn làm việc nhớ một lựa chọn cho danh sách (đổi thư mục"
 }
