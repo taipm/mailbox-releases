@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.13",
-  "tag": "v0.0.1-alpha.13",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.13/MailBox-0.0.1-alpha.13.dmg",
-  "sha256": "89388d70a565557cd291e3da75d539ea9ee7b73af5d01d0f540cb1557ed22761",
-  "notes": "Việc (task) thành đối tượng riêng trong kho: tiêu đề, hạn (ngày cụ thể), mở/xong, nguồn AI hoặc tự thêm, nối với thư/thread nguồn. Việc còn nguyên khi thư đổi thư mục hoặc bị xoá khỏi Mail (giữ tiêu đ"
+  "version": "0.0.1-alpha.14",
+  "tag": "v0.0.1-alpha.14",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.14/MailBox-0.0.1-alpha.14.dmg",
+  "sha256": "1eda65b23705a81f0dfaefc8566dec859303555ce0cf225c7f76084a9b88ccbc",
+  "notes": "Luật tự thao tác thư (như Outlook): luật khớp chữ có thêm \"Rồi thì\": *Chỉ xếp vào luồng* / *Đánh dấu đã đọc* / *Chuyển vào thư mục…* / *Xoá (chuyển vào Deleted Items)*. Dịch vụ nền mỗi 30 giây làm với"
 }
