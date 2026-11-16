@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.15",
-  "tag": "v0.0.1-alpha.15",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.15/MailBox-0.0.1-alpha.15.dmg",
-  "sha256": "8355bef822a560a86f492b62e139a3b016e68dcf1a1fc4f2e634a87342b701e5",
-  "notes": "Mặc định chỉ xem thư chưa đọc: header danh sách ở Bàn làm việc và header mỗi cột ở Phân luồng có tab \"Chưa đọc N | Tất cả\" (mặc định Chưa đọc). Bàn làm việc nhớ một lựa chọn cho danh sách (đổi thư mục"
+  "version": "0.0.1-alpha.16",
+  "tag": "v0.0.1-alpha.16",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.16/MailBox-0.0.1-alpha.16.dmg",
+  "sha256": "d676580581ce55de81367b8a14bcc4ec29fd07d3d27d8a157534984c1926ab94",
+  "notes": "Nhóm thư (theo quy tắc, không dùng AI; song song với luồng tev1, một thư có thể thuộc nhiều nhóm): Đảng, Công đoàn, Phòng tôi, Nghỉ phép. Mỗi nhóm có danh sách địa chỉ (khớp người gửi, To hoặc Cc, khô"
 }
