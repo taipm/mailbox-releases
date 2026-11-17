@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.19",
-  "tag": "v0.0.1-alpha.19",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.19/MailBox-0.0.1-alpha.19.dmg",
-  "sha256": "8bc583afe1e67cdd375f7fc043e450867ea85321b094cb75f998cddc9fb8a8d0",
-  "notes": "Bàn làm việc: chọn sắp xếp bằng chuột xong, phím tắt (J/K/M/N/C…) không còn bị ô sắp xếp nuốt thành gõ-tìm đổi sắp xếp — focus không trả về ô sắp xếp; chip lọc chỉ giữ focus khi bấm bằng bàn phím."
+  "version": "0.0.1-alpha.20",
+  "tag": "v0.0.1-alpha.20",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.20/MailBox-0.0.1-alpha.20.dmg",
+  "sha256": "7f0a8c2c4b46c49dd4513e7124172dda8963c9b9fef85c71beace4f67d61c2cd",
+  "notes": "Chạy được trên macOS cũ hơn: trước đây MailBox bắt mọi cột của Envelope Index phải có, nên trên máy mà Mail chưa có cột `message_global_data.message_id_header` (cột Mail thêm muộn) dịch vụ nền báo \"sc"
 }
