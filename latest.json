@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.22",
-  "tag": "v0.0.1-alpha.22",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.22/MailBox-0.0.1-alpha.22.dmg",
-  "sha256": "f63bd62294965e0a17201c9087980470e560a2511ef1edbcce13572e57361952",
-  "notes": "Xoá việc cha có bước là việc giữ của việc đã gộp: việc gộp vào bước đó giờ xoá theo, không còn sót hàng mở. Kho cũ đã có hàng sót thì được dọn một lần khi mở."
+  "version": "0.0.1-alpha.23",
+  "tag": "v0.0.1-alpha.23",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.23/MailBox-0.0.1-alpha.23.dmg",
+  "sha256": "204c2900d59b8ee5de023a15e5dab30ed58ab5bbfb410368061ba618550a39b4",
+  "notes": "Người thực hiện: mỗi việc giao được cho một hoặc nhiều người (`assignees`: người làm chính `lead` / phối hợp `support`, trạng thái `suggested` / `approved`, nguồn `ai` / `me` / `rule` / `history`, lý "
 }
