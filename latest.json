@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.20",
-  "tag": "v0.0.1-alpha.20",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.20/MailBox-0.0.1-alpha.20.dmg",
-  "sha256": "7f0a8c2c4b46c49dd4513e7124172dda8963c9b9fef85c71beace4f67d61c2cd",
-  "notes": "Chạy được trên macOS cũ hơn: trước đây MailBox bắt mọi cột của Envelope Index phải có, nên trên máy mà Mail chưa có cột `message_global_data.message_id_header` (cột Mail thêm muộn) dịch vụ nền báo \"sc"
+  "version": "0.0.1-alpha.21",
+  "tag": "v0.0.1-alpha.21",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.21/MailBox-0.0.1-alpha.21.dmg",
+  "sha256": "2a485b0216118afa427c6fcf554854b24c07f19a255204ea7bfeacd9a721e834",
+  "notes": "Gộp việc trùng giữa các thư nhắc: việc AI mới trùng một việc AI đang mở ở thread khác (tiêu đề so sau khi bỏ dấu, chữ thường, bỏ RE:/FW:/TL:/Fwd:, \"nhắc lần N\", \"nhắc lần cuối\", \"lần cuối\", \"[gấp]\", d"
 }
