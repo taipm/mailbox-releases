@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.23",
-  "tag": "v0.0.1-alpha.23",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.23/MailBox-0.0.1-alpha.23.dmg",
-  "sha256": "204c2900d59b8ee5de023a15e5dab30ed58ab5bbfb410368061ba618550a39b4",
-  "notes": "Người thực hiện: mỗi việc giao được cho một hoặc nhiều người (`assignees`: người làm chính `lead` / phối hợp `support`, trạng thái `suggested` / `approved`, nguồn `ai` / `me` / `rule` / `history`, lý "
+  "version": "0.0.1-alpha.24",
+  "tag": "v0.0.1-alpha.24",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.24/MailBox-0.0.1-alpha.24.dmg",
+  "sha256": "47ee601985a55c452e288ee82e1a702784ac6c3c56b9ffc0563651b7370c93f4",
+  "notes": "Soạn thư mới, trả lời, trả lời tất cả, chuyển tiếp ngay trong app (⌘N, ⌘R, ⇧⌘R, ⇧⌘F; nút trên thanh thư đang đọc); thư đi qua Mail.app và nằm trong Sent Items như thường. Thư hệ thống chỉ có Chuyển ti"
 }
