@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.24",
-  "tag": "v0.0.1-alpha.24",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.24/MailBox-0.0.1-alpha.24.dmg",
-  "sha256": "47ee601985a55c452e288ee82e1a702784ac6c3c56b9ffc0563651b7370c93f4",
-  "notes": "Soạn thư mới, trả lời, trả lời tất cả, chuyển tiếp ngay trong app (⌘N, ⌘R, ⇧⌘R, ⇧⌘F; nút trên thanh thư đang đọc); thư đi qua Mail.app và nằm trong Sent Items như thường. Thư hệ thống chỉ có Chuyển ti"
+  "version": "0.0.1-alpha.25",
+  "tag": "v0.0.1-alpha.25",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.25/MailBox-0.0.1-alpha.25.dmg",
+  "sha256": "2e1ac35d3dce292f40a22d127470fb8ecb61a912942c81f0c5a1bdb97d269257",
+  "notes": "Ảnh dán trong thân thư hiện đúng chỗ trong thư (chỉ ảnh của chính thư, không tải ảnh từ xa); bấm ảnh để phóng to, Esc để đóng. Ảnh đã hiện trong thư không lặp ở hàng tệp đính kèm; ảnh đính kèm khác hi"
 }
