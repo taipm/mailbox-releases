@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.27",
-  "tag": "v0.0.1-alpha.27",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.27/MailBox-0.0.1-alpha.27.dmg",
-  "sha256": "a0e0f2d1920b115f024b1a8649dca5c02c190391ad3c724a96bd7c81aa7bee3e",
-  "notes": "Đề xuất người thực hiện được kiểm lại danh sách phòng ngay lúc ghi: người vừa bị bỏ khỏi phòng trong lúc AI đang chọn không còn được đề xuất hay tự duyệt; việc đó được đề xuất lại theo danh sách mới."
+  "version": "0.0.1-alpha.28",
+  "tag": "v0.0.1-alpha.28",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.28/MailBox-0.0.1-alpha.28.dmg",
+  "sha256": "50c27fff6b72f6f88577998afc0edc33456cf992b0ec8d6172b4fff689b63d55",
+  "notes": "Thêm view Tệp (⌘5): gom các lần gửi cùng một tệp thành một tài liệu nhiều phiên bản; lọc theo loại, người gửi, thời gian, \"có dòng của phòng tôi\"; tìm theo tên và chữ trong tệp."
 }
