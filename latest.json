@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.25",
-  "tag": "v0.0.1-alpha.25",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.25/MailBox-0.0.1-alpha.25.dmg",
-  "sha256": "2e1ac35d3dce292f40a22d127470fb8ecb61a912942c81f0c5a1bdb97d269257",
-  "notes": "Ảnh dán trong thân thư hiện đúng chỗ trong thư (chỉ ảnh của chính thư, không tải ảnh từ xa); bấm ảnh để phóng to, Esc để đóng. Ảnh đã hiện trong thư không lặp ở hàng tệp đính kèm; ảnh đính kèm khác hi"
+  "version": "0.0.1-alpha.26",
+  "tag": "v0.0.1-alpha.26",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.26/MailBox-0.0.1-alpha.26.dmg",
+  "sha256": "1ec961831531ba4971c377e9e2f40106ce61d05ca8adb9c7e66fce39ce3252a9",
+  "notes": "Cài đặt có mục \"Thành viên phòng\" (hiện số người): thêm người từ danh bạ, dán nhiều email hoặc tên một lần, bỏ người. App gợi ý người có thể thuộc phòng (cùng miền thư, hay trao đổi, có mặt trong thư "
 }
