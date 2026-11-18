@@ -1,7 +1,7 @@
 {
-  "version": "0.0.1-alpha.21",
-  "tag": "v0.0.1-alpha.21",
-  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.21/MailBox-0.0.1-alpha.21.dmg",
-  "sha256": "2a485b0216118afa427c6fcf554854b24c07f19a255204ea7bfeacd9a721e834",
-  "notes": "Gộp việc trùng giữa các thư nhắc: việc AI mới trùng một việc AI đang mở ở thread khác (tiêu đề so sau khi bỏ dấu, chữ thường, bỏ RE:/FW:/TL:/Fwd:, \"nhắc lần N\", \"nhắc lần cuối\", \"lần cuối\", \"[gấp]\", d"
+  "version": "0.0.1-alpha.22",
+  "tag": "v0.0.1-alpha.22",
+  "dmg": "https://github.com/taipm/mailbox-releases/releases/download/v0.0.1-alpha.22/MailBox-0.0.1-alpha.22.dmg",
+  "sha256": "f63bd62294965e0a17201c9087980470e560a2511ef1edbcce13572e57361952",
+  "notes": "Xoá việc cha có bước là việc giữ của việc đã gộp: việc gộp vào bước đó giờ xoá theo, không còn sót hàng mở. Kho cũ đã có hàng sót thì được dọn một lần khi mở."
 }
